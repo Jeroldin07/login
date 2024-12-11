@@ -1,0 +1,17 @@
+body{
+    background-color: aquamarine;
+}
+.cont{
+    background-color: bisque;
+    width: 800px;
+    height: 300px;
+    justify-content: center;
+}
+ul{
+    margin: 10px;
+}
+li{
+    margin: 10px;
+    justify-content: center;
+    justify-items: center-;
+}
